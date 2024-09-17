@@ -36,6 +36,3 @@ To explore the visualizations and key findings of this project, view the Tableau
 - Further analysis on emerging esports markets.
 - Exploration of player engagement metrics at a more granular level.
 - Integration of additional data sources for more detailed forecasts.
-
-### Contact Information
-For any inquiries or collaborations, feel free to contact me at [your-email@example.com].
